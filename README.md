@@ -1,1 +1,1 @@
-# projects-outputs
+# DIGITAL IMAGE PROCESSING 
